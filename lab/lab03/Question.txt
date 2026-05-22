@@ -1,0 +1,5 @@
+Q. Application to implement teacher and student record system.
+Must use the concept of inheritance.
+Person is parent class, Teacher and Student are child class.
+There should be displayInfo() method in each class and should override the parent class method.
+Another class, Record is the main class which takes, input from user and displays also.
