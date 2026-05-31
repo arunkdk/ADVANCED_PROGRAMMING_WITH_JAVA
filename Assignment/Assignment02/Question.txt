@@ -1,0 +1,4 @@
+GUI application to convert input string from upper to lower case or vice versa.
+There are two buttons, UPPER and LOWER and a text field where user give input and also get the result.
+When user gives input to text field and click on one of the buttons then, string changes accordingly in the
+same text field.
